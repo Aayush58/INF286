@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    font-style: italic;
+    }
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2{
+color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+p0{
+    color: rgb(0, 217, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.my-movies{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.favorite-movies{
+    color: rgb(0, 213, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+table{
+    border-color: aliceblue;
+    font-family:Times 'Times New Roman';
+    color:whitesmoke;
+    font-style: italic;   
+    }
+
