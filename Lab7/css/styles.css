@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+body{
+    background-color:black;
+    font-family: 'Shantell Sans', cursive;
+    font-style: italic;
+    color:aquamarine 
+}
+h1{
+    color: aliceblue;
+    font-style: italic;
+}
+p3{
+    color: whitesmoke;
+    font-size: 25px;
+}
+h2{
+color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.my-hobbies{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+.my-movies{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.favorite-movies{
+    color: rgb(0, 213, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.table{
+    border-color:aquamarine;
+    color:lime;
+    font-style: italic;
+       
+    }
+
+.button{
+    background-color: aqua;
+    color : black;
+}
+
